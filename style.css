@@ -1,0 +1,13 @@
+* { text-align: center;}
+li {list-style-type: none;}
+h1 {
+ color: rgba(201, 118, 40, 0.966);   
+}
+h2 {
+    color:coral
+}
+ul { 
+    color:black
+    
+}
+body {background-color: rgb(228, 177, 161);}
